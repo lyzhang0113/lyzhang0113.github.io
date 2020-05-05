@@ -43,9 +43,13 @@
 .hack section,
 .hack header,
 .hack footer {
+  position: fixed;
+  bottom: 0;
+  text-align: center;
   float: none;
   margin: 0;
-  padding: 0;
+  padding: 10px;
+  width: 100%
 }
 .hack h1,
 .hack p,
@@ -59,7 +63,7 @@
   position: relative;
   display: inline-block;
   display: table-cell;
-  padding: 20px 0 30px;
+  padding: 50px 5px 30px;
   margin: 0;
   overflow: hidden;
 }
@@ -102,6 +106,9 @@
 }
 .hack h6:before {
   content: "###### ";
+}
+.hack footer:before {
+  content: "----------------------------------------------------------------------------------------------------";
 }
 .hack li {
   position: relative;
