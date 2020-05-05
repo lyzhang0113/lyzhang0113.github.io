@@ -63,7 +63,7 @@
   position: relative;
   display: inline-block;
   display: table-cell;
-  padding: 50px 5px 30px;
+  padding: 50px 0px 25px;
   margin: 0;
   overflow: hidden;
 }
@@ -108,7 +108,9 @@
   content: "###### ";
 }
 .hack footer:before {
-  content: "----------------------------------------------------------------------------------------------------";
+  content: "-----------------------------------------------------------------------------------------------------------------";
+  overflow: hidden;
+  white-space: nowrap;
 }
 .hack li {
   position: relative;
