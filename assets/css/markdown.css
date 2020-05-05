@@ -43,13 +43,9 @@
 .hack section,
 .hack header,
 .hack footer {
-  position: fixed;
-  bottom: 0;
-  text-align: center;
   float: none;
   margin: 0;
-  padding: 10px;
-  width: 100%
+  padding: 0;
 }
 .hack h1,
 .hack p,
@@ -63,7 +59,7 @@
   position: relative;
   display: inline-block;
   display: table-cell;
-  padding: 50px 0px 25px;
+  padding: 20px 0 30px;
   margin: 0;
   overflow: hidden;
 }
@@ -91,6 +87,9 @@
 .hack h5:before,
 .hack h6:before {
   display: inline;
+}
+.hack h1:before {
+  content: "# ";
 }
 .hack h2:before {
   content: "## ";
@@ -190,4 +189,14 @@
 }
 .hack-ones ol > li:after {
   content: "1.";
+}
+
+.hack footer {
+  position: fixed;
+  bottom: 0;
+  text-align: center;
+  float: none;
+  margin: 0;
+  padding: 10px;
+  width: 100%
 }
