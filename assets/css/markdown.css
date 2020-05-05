@@ -52,7 +52,7 @@
 .hack ul,
 .hack ol,
 .hack blockquote {
-  margin-top: 20px;
+  margin-top: 10px;
   margin-bottom: 20px;
 }
 .hack h1 {
@@ -78,7 +78,7 @@
 .hack h5,
 .hack h6 {
   position: relative;
-  margin-bottom: 1.75rem;
+  margin-bottom: 0.75rem;
 }
 
 .hack h2:before,
@@ -107,7 +107,7 @@
   content: "###### ";
 }
 .hack footer:before {
-  content: "-----------------------------------------------------------------------------------------------------------------";
+  content: "------------------------------------------------------------------------";
   overflow: hidden;
   white-space: nowrap;
 }
@@ -198,5 +198,7 @@
   float: none;
   margin: 0;
   padding: 10px;
-  width: 100%
+  width: 100%;
+  word-wrap: break-word;
+  white-space: initial;
 }
