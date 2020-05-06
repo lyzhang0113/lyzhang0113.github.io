@@ -107,7 +107,7 @@
   content: "###### ";
 }
 .hack footer:before {
-  content: "------------------------------------------------------------------------";
+  content: "-------------------------------------------------------------------------------------------------------------------------------";
   overflow: hidden;
   white-space: nowrap;
 }
@@ -201,4 +201,5 @@
   width: 100%;
   word-wrap: break-word;
   white-space: initial;
+  overflow: hidden;
 }
