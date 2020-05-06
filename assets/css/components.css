@@ -242,6 +242,26 @@ select.form-control {
 }
 
 /**
+ * custom mode switch button
+ */
+.btn-switch {
+  font-size: 1.5rem;
+  position: fixed;
+  bottom: 85px;
+  right: 10px;
+  cursor: pointer;
+  z-index: 10;
+  border: none;
+  background-color: #000000;
+  color: #FFFFFF;
+}
+ 
+.btn-switch-dark {
+  background-color: #FFFFFF;
+  color: #000000;
+}
+
+/**
  * Card
  */
 .card {
@@ -389,4 +409,23 @@ select.form-control {
       background-color: transparent;
     }
   }
+}
+
+/**
+ * Top-right corner GitHub svg
+ */
+.github-corner-icon {
+	fill: #151513; 
+	color: #fff; 
+	position: absolute; 
+	top: 0; 
+	border: 0; 
+	right: 0;
+	width: 80px; 
+	height: 80px;
+}
+
+.github-corner-icon-dark {
+	fill: #fff; 
+	color: #151513; 
 }

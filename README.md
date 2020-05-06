@@ -7,23 +7,25 @@ permalink: /
 
 
 ## Contact
-E-Mail: <lyzhang0113@gmail.com>
+<i class="fas fa-envelope"></i> E-Mail: <lyzhang0113@gmail.com>
 
 <i class="fab fa-qq"></i> Tencent QQ: [459321066](tencent://message/?uin=459321066&Site=400301.com&Menu=yes)
 
-Wechat: ZLY_2000
+<i class="fab fa-weixin"></i> Wechat: ZLY_2000
 
-Telegram: [Telegram](https://t.me/lyzhang0113)
+<i class="fab fa-telegram-plane"></i> Telegram: [Telegram](https://t.me/lyzhang0113)
 
 ## Education
 ---
+
 __Rensselaer Polytechnic Institute__
 
-<div style="text-align:right">Septemper 2018 - Present</div>
+<div style="text-align:right">Sep. 2018 - Pres.&nbsp;</div>
 
-B.S. Computer and Systems Engineering 
+*B.S. Computer and Systems Engineering*
 
-<div style="text-align:right">Troy, NY</div>
+<div style="text-align:right">Troy, NY&nbsp;</div>
+
 ---
 
 ## Projects

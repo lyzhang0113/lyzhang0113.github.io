@@ -15,7 +15,7 @@
 .hack em,
 .hack strong,
 .hack code {
-  font-size: 1.05rem;
+  font-size: 1.10rem;
   font-style: normal;
   font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
 }
@@ -160,7 +160,6 @@
 }
 .hack em:before,
 .hack em:after {
-  content: "*";
   display: inline;
 }
 .hack pre code:before,
@@ -201,6 +200,10 @@
   content: "1.";
 }
 
+/*
+* custom edits below
+*/
+
 .hack footer {
   position: fixed;
   bottom: 0;
@@ -212,9 +215,18 @@
   word-wrap: break-word;
   white-space: initial;
   overflow: hidden;
+  margin-top: -50px;
 }
 
 .hack p {
-  margin-top: 0.05rem;
-  margin-bottom: 0.05rem;
+  margin-top: 0.1rem;
+  margin-bottom: 0.075rem;
+}
+
+.hack em {
+  font-style: italic;
+}
+
+.hack h1 {
+	font-size: 1.25em;
 }
