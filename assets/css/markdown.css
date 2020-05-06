@@ -215,7 +215,7 @@
   word-wrap: break-word;
   white-space: initial;
   overflow: hidden;
-  margin-top: -50px;
+  height: 7.5rem;
 }
 
 .hack p {

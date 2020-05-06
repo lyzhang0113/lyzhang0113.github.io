@@ -39,10 +39,4 @@ __Smart Pot__
 
 
 
-
-
-
-
-
-
 <script src="https://kit.fontawesome.com/c5f242997a.js" crossorigin="anonymous"></script>

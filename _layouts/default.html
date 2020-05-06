@@ -30,6 +30,7 @@
 	function mode() {
 		if (dark) {
 			document.getElementsByTagName("body")[0].classList.remove("dark");
+			document.getElementsByName("footer")[0].classList.remove("dark");
 			document.getElementsByName("github-icon")[0].classList.remove("github-corner-icon-dark");
 			document.getElementsByName("btn-switch")[0].classList.remove("btn-switch-dark");
 			document.getElementsByName("btn-content")[0].classList.remove("fa-sun");
@@ -37,6 +38,7 @@
 			dark = false;
 		} else {
 			document.getElementsByTagName("body")[0].classList.add("dark");
+			document.getElementsByName("footer")[0].classList.add("dark");
 			document.getElementsByName("github-icon")[0].classList.add("github-corner-icon-dark");
 			document.getElementsByName("btn-switch")[0].classList.add("btn-switch-dark");
 			document.getElementsByName("btn-content")[0].classList.remove("fa-moon");
