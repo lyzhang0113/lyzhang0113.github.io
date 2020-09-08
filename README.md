@@ -48,20 +48,30 @@ This project received a perfect score in that course.
 
 ### Programming Languages
 __C__
+
 __C++__
+
 __C#__
+
 __Java__
+
 __MatLab__
+
 __Python__
+
 __SQL__
+
 
 ### Courses Taken
 #### Computer Science
 __Data Structures__
+
 __Intro to Algorithms__
 #### Computer Engineering
 __Computer Components and Operation__
+
 __Embedded Control__
+
 __Computer Architecture, Networking and Operating Systems__
 
 
