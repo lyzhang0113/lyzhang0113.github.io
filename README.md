@@ -5,74 +5,120 @@ permalink: /
 
 # Luoyan Zhang
 
-
 ## Contact
+
 <i class="fas fa-envelope"></i> E-Mail: <lyzhang0113@gmail.com>
 
 <i class="fab fa-qq"></i> Tencent QQ: [459321066](tencent://message/?uin=459321066&Site=400301.com&Menu=yes)
 
-<i class="fab fa-weixin"></i> Wechat: ZLY_2000
+<i class="fab fa-weixin"></i> Wechat: lyzhang0113
 
 <i class="fab fa-telegram-plane"></i> Telegram: [lyzhang0113](https://t.me/lyzhang0113)
 
 ## Education
+
 ---
 
-__Rensselaer Polytechnic Institute__
+[__Northeastern University__](https://northeastern.edu/)
 
-<div style="text-align:right">Sep. 2018 - Pres.&nbsp;</div>
+<div style="text-align:right">August 2022 - Present </div>
 
-*B.S. Computer and Systems Engineering*
+[*M.S. Electrical and Computer Engineering*](https://catalog.northeastern.edu/graduate/engineering/electrical-computer/#programstext)
 
-<div style="text-align:right">Troy, NY&nbsp;</div>
+<div style="text-align:right">Boston, Massachusetts, USA</div>
+
+---
+
+[__Rensselaer Polytechnic Institute__](https://rpi.edu/)
+
+<div style="text-align:right">August 2018 - May 2022 </div>
+
+[*B.S. Computer and Systems Engineering*](http://catalog.rpi.edu/preview_program.php?catoid=18&poid=4063)
+
+<div style="text-align:right">Troy, New York, USA</div>
+
+---
+
+## Experience
+
+---
+
+[__ArcSoft, Inc.__](https://www.arcsoft.com/)
+
+<div style="text-align:right">December 2020 - May 2021 </div>
+
+*Software Engineer Intern - Quality Assurance*
+
+<div style="text-align:right">Hangzhou, Zhejiang, China</div>
 
 ---
 
 ## Projects
+
+---
+
+[__Volunteer Matching Software__](http://rpi-vms.luoyanzhang.com:5000/)
+
+A web-application platform that matches volunteers to tasks.
+
+---
+
 [__Smart Pot__](https://github.com/lyzhang0113/SmartPot)
-This project is developed as an outcome of the Intro to Engineering Design course in RPI during 2020 Spring semester.
-It integrates the usage of [Spring Boot](https://spring.io/projects/spring-boot), [Thymeleaf](https://www.thymeleaf.org/), and [MySQL](https://www.mysql.com/).
-It received a perfect score in that course.
+
+An intelligent agriculture device.
+
+---
 
 __Unity Game Projects__
-This project is developed as an outcome of the Intro to Game Programming course in RPI during 2020 Summer semester.
-This project is a playable Unity Game which has a combination of 4 different game types, written in C#.
-This project received a perfect score in that course.  
 
+Intro to Game Programming Projects.
 
-## Experience
+---
 
 ## Academics
 
+---
+
+[__UGSA - Embedded Control__](https://sites.ecse.rpi.edu//courses/static/ENGR-2350/index.html)
+
+<div style="text-align:right">Spring 2022</div>
+
+Normal but interesting TA Job, used STM32 microprocessors.
+
+---
+
 ## Skills
 
-### Programming Languages
-__C__
+---
 
-__C++__
+### Human Languages
 
-__C#__
+__Mandarin__, __English__
 
-__Java__
+### Languages
 
-__MatLab__
+__C__, __C++__, C# (Unity), __Java__, MatLab, __Python__, __SQL__
 
-__Python__
+### Frameworks (mostly Web-dev)
 
-__SQL__
+__Spring Boot & Spring Cloud__, Flask, __ROS__(Robot Operating System)
 
+### Microcontrollers
 
-### Courses Taken
-#### Computer Science
-__Data Structures__
+C8051, __STM32__, Raspberry Pi, Arduino
 
-__Intro to Algorithms__
-#### Computer Engineering
-__Computer Components and Operation__
+### Middleware (Web-dev)
 
-__Embedded Control__
+__MySQL__, MongoDB, __Redis__, RabbitMQ, AmazonS3, Jenkins, Sentry
 
-__Computer Architecture, Networking and Operating Systems__
+### Others
 
+__Linux__, __Docker__, __Kubernetes__, __Git__, SVN
+
+---
+
+## Preferences
+
+Still Under Construction...
 
 <script src="https://kit.fontawesome.com/c5f242997a.js" crossorigin="anonymous"></script>
