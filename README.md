@@ -15,33 +15,30 @@ permalink: /
 
 <i class="fab fa-telegram-plane"></i> Telegram: [lyzhang0113](https://t.me/lyzhang0113)
 
-## Education
-
 ---
+
+## Education
 
 [__Northeastern University__](https://northeastern.edu/)
 
 <div style="text-align:right">August 2022 - Present </div>
 
-[*M.S. Electrical and Computer Engineering*](https://catalog.northeastern.edu/graduate/engineering/electrical-computer/#programstext)
+*M.S. Electrical and Computer Engineering*
 
 <div style="text-align:right">Boston, Massachusetts, USA</div>
 
----
 
 [__Rensselaer Polytechnic Institute__](https://rpi.edu/)
 
 <div style="text-align:right">August 2018 - May 2022 </div>
 
-[*B.S. Computer and Systems Engineering*](http://catalog.rpi.edu/preview_program.php?catoid=18&poid=4063)
+*B.S. Computer and Systems Engineering*
 
 <div style="text-align:right">Troy, New York, USA</div>
 
 ---
 
 ## Experience
-
----
 
 [__ArcSoft, Inc.__](https://www.arcsoft.com/)
 
@@ -55,19 +52,15 @@ permalink: /
 
 ## Projects
 
----
-
 [__Volunteer Matching Software__](http://rpi-vms.luoyanzhang.com:5000/)
 
 A web-application platform that matches volunteers to tasks.
 
----
 
 [__Smart Pot__](https://github.com/lyzhang0113/SmartPot)
 
 An intelligent agriculture device.
 
----
 
 __Unity Game Projects__
 
@@ -76,8 +69,6 @@ Intro to Game Programming Projects.
 ---
 
 ## Academics
-
----
 
 [__UGSA - Embedded Control__](https://sites.ecse.rpi.edu//courses/static/ENGR-2350/index.html)
 
@@ -88,8 +79,6 @@ Normal but interesting TA Job, used STM32 microprocessors.
 ---
 
 ## Skills
-
----
 
 ### Human Languages
 
@@ -120,5 +109,9 @@ __Linux__, __Docker__, __Kubernetes__, __Git__, SVN
 ## Preferences
 
 Still Under Construction...
+
+## Placeholder
+
+Hello World!
 
 <script src="https://kit.fontawesome.com/c5f242997a.js" crossorigin="anonymous"></script>
