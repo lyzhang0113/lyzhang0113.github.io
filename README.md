@@ -7,11 +7,11 @@ permalink: /
 
 ## Contact
 
-<i class="fas fa-envelope"></i> E-Mail: <lyzhang0113@gmail.com>
+<i class="fas fa-envelope"></i> E-Mail: <me@doby2333.com>
 
-<i class="fab fa-qq"></i> Tencent QQ: [459321066](tencent://message/?uin=459321066&Site=400301.com&Menu=yes)
+<!-- <i class="fab fa-qq"></i> Tencent QQ: [459321066](tencent://message/?uin=459321066&Site=400301.com&Menu=yes)
 
-<i class="fab fa-weixin"></i> Wechat: lyzhang0113
+<i class="fab fa-weixin"></i> Wechat: lyzhang0113 -->
 
 <i class="fab fa-telegram-plane"></i> Telegram: [lyzhang0113](https://t.me/lyzhang0113)
 
@@ -21,7 +21,7 @@ permalink: /
 
 [__Northeastern University__](https://northeastern.edu/)
 
-<div style="text-align:right">August 2022 - Present </div>
+<div style="text-align:right">August 2022 - May 2024 </div>
 
 *M.S. Electrical and Computer Engineering*
 
@@ -40,6 +40,14 @@ permalink: /
 
 ## Experience
 
+[__Dynamsoft__](https://www.arcsoft.com/)
+
+<div style="text-align:right">September 2024 - Present </div>
+
+*Technical Support Engineer*
+
+<div style="text-align:right">Hangzhou, Zhejiang, China</div>
+
 [__ArcSoft, Inc.__](https://www.arcsoft.com/)
 
 <div style="text-align:right">December 2020 - May 2021 </div>
@@ -51,6 +59,16 @@ permalink: /
 ---
 
 ## Projects
+
+[__AutoSpecNet__](https://github.com/lyzhang0113/AutoSpecNet)
+
+A Multi-Task Learning Car Recognition Method based on MobileNetV2.
+
+
+[__OpenVINS Analysis__](https://gitlab.com/zhang.luoya/eece5554-slam)
+
+A Demo and Analysis to OpenVINS, one of the Virtual SLAM Algorithms.
+
 
 [__Volunteer Matching Software__](http://rpi-vms.luoyanzhang.com:5000/)
 
@@ -70,11 +88,25 @@ Intro to Game Programming Projects.
 
 ## Academics
 
+[__TA - Operating Systems__](https://catalog.northeastern.edu/search/?P=EECE%207376)
+
+<div style="text-align:right">Spring 2024</div>
+
+Teaching Assistant
+
+
+[__TA - Embedded Design__](https://catalog.northeastern.edu/search/?P=EECE%202160)
+
+<div style="text-align:right">Spring 2023, Fall 2023</div>
+
+Teaching Assistant
+
+
 [__UGSA - Embedded Control__](https://sites.ecse.rpi.edu//courses/static/ENGR-2350/index.html)
 
 <div style="text-align:right">Spring 2022</div>
 
-Normal but interesting TA Job, used STM32 microprocessors.
+Undergraduate Student Teaching Assistant, taught STM32 microprocessors.
 
 ---
 
@@ -86,7 +118,7 @@ __Mandarin__, __English__
 
 ### Languages
 
-__C__, __C++__, C# (Unity), __Java__, MatLab, __Python__, __SQL__
+__C__, __C++__, C# (Unity), __Java__, JavaScript, MatLab, __Python__, __SQL__
 
 ### Frameworks (mostly Web-dev)
 
